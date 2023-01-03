@@ -24,7 +24,4 @@ Champollion
 -   **1835-45**  : *Monuments de l'Egypte et de la Nubie: d'après les dessins exécutés sur les lieux sous la direction de Champollion le-Jeune, et les descriptions autographes qu'il en a rédigées*
 -   **1836**  : *Grammaire égyptienne, ou Principes généraux de l’ecriture sacrée égyptienne appliquée a la représentation de la langue parlée*, [google](https://books.google.fr/books?id=dHATAAAAQAAJ)
 -   **1841**  : *Dictionnaire égyptien en écriture hiéroglyphique*, [gallica](https://gallica.bnf.fr/ark:/12148/bpt6k106209v)
-
--    *Lettres écrites d'Égypte et de Nubie.* Vol. 10764. Project Gutenberg. 1828–1829. OCLC 979571496.;
-
--    **1909** : Hartleben, *Lettres*. 2 vols.
+-   **1909** : Hartleben, *Lettres*. 2 vols.
